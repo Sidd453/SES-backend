@@ -1,0 +1,1364 @@
+{
+  "pages": [
+    {
+      "slug": "home",
+      "name": "Home",
+      "seoTitle": "Samarth Engineering Services | Structural Design & 3D Modelling, Pune",
+      "seoDescription": "Samarth Engineering Services (SES), Pune: civil and structural design, structural steel and RCC design, 3D modelling, detailing and FEA for industrial and infrastructure projects.",
+      "ogImage": "assets/images/car-parking-structure-mumbai.jpg"
+    },
+    {
+      "slug": "about",
+      "name": "About Us",
+      "seoTitle": "About Us | Samarth Engineering Services, Pune",
+      "seoDescription": "Learn about Samarth Engineering Services: our civil and structural engineering team, expertise, codes, hardware and software, and project statistics.",
+      "ogImage": "assets/images/car-parking-structure-mumbai.jpg"
+    },
+    {
+      "slug": "services",
+      "name": "Services",
+      "seoTitle": "Services | Structural Steel, RCC, 3D Modelling & FEA – SES Pune",
+      "seoDescription": "Civil and structural design, structural steel and RCC design, 3D modelling and detailing, fabrication drawings, FEA, BOQ, solar structures and design review by Samarth Engineering Services.",
+      "ogImage": "assets/images/car-parking-structure-mumbai.jpg"
+    },
+    {
+      "slug": "projects",
+      "name": "Projects",
+      "seoTitle": "Projects | Industrial, Parking & RCC Structures – SES Pune",
+      "seoDescription": "Explore projects by Samarth Engineering Services: PEB sheds, parking structures, transfer towers, API tanks, RCC structures, 3D modelling and FEA work.",
+      "ogImage": "assets/images/car-parking-structure-mumbai.jpg"
+    },
+    {
+      "slug": "contact",
+      "name": "Contact",
+      "seoTitle": "Contact | Samarth Engineering Services, Pune",
+      "seoDescription": "Contact Samarth Engineering Services at Narayan Peth, Pune. Call, email or send a project enquiry for structural design, 3D modelling and detailing.",
+      "ogImage": "assets/images/car-parking-structure-mumbai.jpg"
+    },
+    {
+      "slug": "notfound",
+      "name": "404 Page",
+      "seoTitle": "Page not found | Samarth Engineering Services",
+      "seoDescription": "The page you requested could not be found.",
+      "ogImage": "assets/images/car-parking-structure-mumbai.jpg"
+    }
+  ],
+  "content": [
+    {
+      "page": "home",
+      "key": "home.s1.img1",
+      "section": "Engineering Structures. Building Confidence.",
+      "order": 1,
+      "type": "image",
+      "label": "Image · Structural steel framework of a multilevel car parking struc",
+      "value": "https://images.unsplash.com/photo-1527335988388-b40ee248d80c?auto=format&fit=crop&w=2000&q=80",
+      "alt": "Structural steel framework of a multilevel car parking structure in Mumbai"
+    },
+    {
+      "page": "home",
+      "key": "home.s1.p1",
+      "section": "Engineering Structures. Building Confidence.",
+      "order": 2,
+      "type": "text",
+      "label": "Samarth Engineering Services · Pune, India",
+      "value": "Samarth Engineering Services · Pune, India"
+    },
+    {
+      "page": "home",
+      "key": "home.s1.h11",
+      "section": "Engineering Structures. Building Confidence.",
+      "order": 3,
+      "type": "html",
+      "label": "Engineering Structures. Building Confidence.",
+      "value": "Engineering Structures. <span class=\"text-gradient\">Building Confidence.</span>"
+    },
+    {
+      "page": "home",
+      "key": "home.s1.p2",
+      "section": "Engineering Structures. Building Confidence.",
+      "order": 4,
+      "type": "text",
+      "label": "Precision-driven structural engineering, 3D modelling and de",
+      "value": "Precision-driven structural engineering, 3D modelling and detailing for industrial and infrastructure projects."
+    },
+    {
+      "page": "home",
+      "key": "home.s1.span1",
+      "section": "Engineering Structures. Building Confidence.",
+      "order": 5,
+      "type": "text",
+      "label": "Explore Our Projects",
+      "value": "Explore Our Projects",
+      "hasHref": true,
+      "href": "projects.html"
+    },
+    {
+      "page": "home",
+      "key": "home.s1.a1",
+      "section": "Engineering Structures. Building Confidence.",
+      "order": 6,
+      "type": "text",
+      "label": "Our Services",
+      "value": "Our Services",
+      "hasHref": true,
+      "href": "services.html"
+    },
+    {
+      "page": "home",
+      "key": "home.s1.span2",
+      "section": "Engineering Structures. Building Confidence.",
+      "order": 7,
+      "type": "count",
+      "label": "Counter · 865+Steel projects",
+      "value": "865",
+      "suffix": "+"
+    },
+    {
+      "page": "home",
+      "key": "home.s1.dt1",
+      "section": "Engineering Structures. Building Confidence.",
+      "order": 8,
+      "type": "text",
+      "label": "Steel projects",
+      "value": "Steel projects"
+    },
+    {
+      "page": "home",
+      "key": "home.s1.span3",
+      "section": "Engineering Structures. Building Confidence.",
+      "order": 9,
+      "type": "count",
+      "label": "Counter · 115RCC projects",
+      "value": "115",
+      "suffix": ""
+    },
+    {
+      "page": "home",
+      "key": "home.s1.dt2",
+      "section": "Engineering Structures. Building Confidence.",
+      "order": 10,
+      "type": "text",
+      "label": "RCC projects",
+      "value": "RCC projects"
+    },
+    {
+      "page": "home",
+      "key": "home.s1.span4",
+      "section": "Engineering Structures. Building Confidence.",
+      "order": 11,
+      "type": "count",
+      "label": "Counter · 980+Total",
+      "value": "980",
+      "suffix": "+"
+    },
+    {
+      "page": "home",
+      "key": "home.s1.dt3",
+      "section": "Engineering Structures. Building Confidence.",
+      "order": 12,
+      "type": "text",
+      "label": "Total",
+      "value": "Total"
+    },
+    {
+      "page": "home",
+      "key": "home.s1.p3",
+      "section": "Engineering Structures. Building Confidence.",
+      "order": 13,
+      "type": "text",
+      "label": "Figures as stated in the company profile.",
+      "value": "Figures as stated in the company profile."
+    },
+    {
+      "page": "home",
+      "key": "home.s1.p4",
+      "section": "Engineering Structures. Building Confidence.",
+      "order": 14,
+      "type": "text",
+      "label": "Car parking structure, Mumbai — photograph from company prof",
+      "value": "Car parking structure, Mumbai — photograph from company profile"
+    },
+    {
+      "page": "home",
+      "key": "home.s3.p1",
+      "section": "Projects completed to date",
+      "order": 15,
+      "type": "text",
+      "label": "Track record",
+      "value": "Track record"
+    },
+    {
+      "page": "home",
+      "key": "home.s3.h21",
+      "section": "Projects completed to date",
+      "order": 16,
+      "type": "text",
+      "label": "Projects completed to date",
+      "value": "Projects completed to date"
+    },
+    {
+      "page": "home",
+      "key": "home.s3.p2",
+      "section": "Projects completed to date",
+      "order": 17,
+      "type": "text",
+      "label": "Figures as stated in the SES 2026–27 company profile.",
+      "value": "Figures as stated in the SES 2026–27 company profile."
+    },
+    {
+      "page": "home",
+      "key": "home.s3.dt1",
+      "section": "Projects completed to date",
+      "order": 18,
+      "type": "text",
+      "label": "Structural steel projects",
+      "value": "Structural steel projects"
+    },
+    {
+      "page": "home",
+      "key": "home.s3.span1",
+      "section": "Projects completed to date",
+      "order": 19,
+      "type": "count",
+      "label": "Counter · Structural steel projects865+",
+      "value": "865",
+      "suffix": "+"
+    },
+    {
+      "page": "home",
+      "key": "home.s3.dt2",
+      "section": "Projects completed to date",
+      "order": 20,
+      "type": "text",
+      "label": "RCC projects",
+      "value": "RCC projects"
+    },
+    {
+      "page": "home",
+      "key": "home.s3.span2",
+      "section": "Projects completed to date",
+      "order": 21,
+      "type": "count",
+      "label": "Counter · RCC projects115",
+      "value": "115",
+      "suffix": ""
+    },
+    {
+      "page": "home",
+      "key": "home.s3.dt3",
+      "section": "Projects completed to date",
+      "order": 22,
+      "type": "text",
+      "label": "Total projects stated",
+      "value": "Total projects stated"
+    },
+    {
+      "page": "home",
+      "key": "home.s3.span3",
+      "section": "Projects completed to date",
+      "order": 23,
+      "type": "count",
+      "label": "Counter · Total projects stated980+",
+      "value": "980",
+      "suffix": "+"
+    },
+    {
+      "page": "home",
+      "key": "home.s4.img1",
+      "section": "Engineering Expertise You Can Build On",
+      "order": 24,
+      "type": "image",
+      "label": "Image · Blue structural steel frame of an industrial PEB shed at Rai",
+      "value": "assets/images/peb-shed-raigad.jpg",
+      "alt": "Blue structural steel frame of an industrial PEB shed at Raigad"
+    },
+    {
+      "page": "home",
+      "key": "home.s4.figcaption1",
+      "section": "Engineering Expertise You Can Build On",
+      "order": 25,
+      "type": "text",
+      "label": "Industrial PEB shed, Raigad — photograph from company profil",
+      "value": "Industrial PEB shed, Raigad — photograph from company profile"
+    },
+    {
+      "page": "home",
+      "key": "home.s4.p1",
+      "section": "Engineering Expertise You Can Build On",
+      "order": 26,
+      "type": "text",
+      "label": "About the company",
+      "value": "About the company"
+    },
+    {
+      "page": "home",
+      "key": "home.s4.h21",
+      "section": "Engineering Expertise You Can Build On",
+      "order": 27,
+      "type": "text",
+      "label": "Engineering Expertise You Can Build On",
+      "value": "Engineering Expertise You Can Build On"
+    },
+    {
+      "page": "home",
+      "key": "home.s4.p2",
+      "section": "Engineering Expertise You Can Build On",
+      "order": 28,
+      "type": "text",
+      "label": "Samarth Engineering Services provides civil and structural d",
+      "value": "Samarth Engineering Services provides civil and structural design services for industrial, refinery, commercial, residential and infrastructure projects — in structural steel and reinforced concrete, backed by 3D modelling and detailed drawings."
+    },
+    {
+      "page": "home",
+      "key": "home.s4.h31",
+      "section": "Engineering Expertise You Can Build On",
+      "order": 29,
+      "type": "text",
+      "label": "Technical Precision",
+      "value": "Technical Precision"
+    },
+    {
+      "page": "home",
+      "key": "home.s4.p3",
+      "section": "Engineering Expertise You Can Build On",
+      "order": 30,
+      "type": "text",
+      "label": "Designs to Indian and international codes, with analysis too",
+      "value": "Designs to Indian and international codes, with analysis tools suited to each structure."
+    },
+    {
+      "page": "home",
+      "key": "home.s4.h32",
+      "section": "Engineering Expertise You Can Build On",
+      "order": 31,
+      "type": "text",
+      "label": "Practical Engineering",
+      "value": "Practical Engineering"
+    },
+    {
+      "page": "home",
+      "key": "home.s4.p4",
+      "section": "Engineering Expertise You Can Build On",
+      "order": 32,
+      "type": "text",
+      "label": "Structures planned to be fabricated, erected and used on rea",
+      "value": "Structures planned to be fabricated, erected and used on real industrial sites."
+    },
+    {
+      "page": "home",
+      "key": "home.s4.h33",
+      "section": "Engineering Expertise You Can Build On",
+      "order": 33,
+      "type": "text",
+      "label": "Detailed Design Documentation",
+      "value": "Detailed Design Documentation"
+    },
+    {
+      "page": "home",
+      "key": "home.s4.p5",
+      "section": "Engineering Expertise You Can Build On",
+      "order": 34,
+      "type": "text",
+      "label": "Calculations, fabrication and construction drawings, and bil",
+      "value": "Calculations, fabrication and construction drawings, and bills of material."
+    },
+    {
+      "page": "home",
+      "key": "home.s4.span1",
+      "section": "Engineering Expertise You Can Build On",
+      "order": 35,
+      "type": "text",
+      "label": "Discover Our Company",
+      "value": "Discover Our Company",
+      "hasHref": true,
+      "href": "about.html"
+    },
+    {
+      "page": "home",
+      "key": "home.s5.p1",
+      "section": "Services built around structural delivery",
+      "order": 36,
+      "type": "text",
+      "label": "What we do",
+      "value": "What we do"
+    },
+    {
+      "page": "home",
+      "key": "home.s5.h21",
+      "section": "Services built around structural delivery",
+      "order": 37,
+      "type": "text",
+      "label": "Services built around structural delivery",
+      "value": "Services built around structural delivery"
+    },
+    {
+      "page": "home",
+      "key": "home.s5.p2",
+      "section": "Services built around structural delivery",
+      "order": 38,
+      "type": "text",
+      "label": "From first design calculations to fabrication drawings and e",
+      "value": "From first design calculations to fabrication drawings and estimates."
+    },
+    {
+      "page": "home",
+      "key": "home.s6.p1",
+      "section": "Work from our portfolio",
+      "order": 39,
+      "type": "text",
+      "label": "Featured projects",
+      "value": "Featured projects"
+    },
+    {
+      "page": "home",
+      "key": "home.s6.h21",
+      "section": "Work from our portfolio",
+      "order": 40,
+      "type": "text",
+      "label": "Work from our portfolio",
+      "value": "Work from our portfolio"
+    },
+    {
+      "page": "home",
+      "key": "home.s6.p2",
+      "section": "Work from our portfolio",
+      "order": 41,
+      "type": "text",
+      "label": "Projects named in the SES company profile. Each card states ",
+      "value": "Projects named in the SES company profile. Each card states whether the image is a photograph or a 3D / analysis model, and whether work is completed or ongoing where the profile says so."
+    },
+    {
+      "page": "home",
+      "key": "home.s6.span1",
+      "section": "Work from our portfolio",
+      "order": 42,
+      "type": "text",
+      "label": "View all projects",
+      "value": "View all projects",
+      "hasHref": true,
+      "href": "projects.html"
+    },
+    {
+      "page": "home",
+      "key": "home.s7.p1",
+      "section": "Principal areas of expertise",
+      "order": 43,
+      "type": "text",
+      "label": "Our expertise",
+      "value": "Our expertise"
+    },
+    {
+      "page": "home",
+      "key": "home.s7.h21",
+      "section": "Principal areas of expertise",
+      "order": 44,
+      "type": "text",
+      "label": "Principal areas of expertise",
+      "value": "Principal areas of expertise"
+    },
+    {
+      "page": "home",
+      "key": "home.s7.img1",
+      "section": "Principal areas of expertise",
+      "order": 45,
+      "type": "image",
+      "label": "Image · 3D model of a refinery equipment support structure",
+      "value": "assets/images/refinery-support-structure-bathinda-3d.jpg",
+      "alt": "3D model of a refinery equipment support structure"
+    },
+    {
+      "page": "home",
+      "key": "home.s7.figcaption1",
+      "section": "Principal areas of expertise",
+      "order": 46,
+      "type": "text",
+      "label": "Refinery equipment support structure — 3D model view",
+      "value": "Refinery equipment support structure — 3D model view"
+    },
+    {
+      "page": "home",
+      "key": "home.s7.img2",
+      "section": "Principal areas of expertise",
+      "order": 47,
+      "type": "image",
+      "label": "Image · Large API petroleum storage tanks",
+      "value": "assets/images/api-tanks-reliance-bhopal.jpg",
+      "alt": "Large API petroleum storage tanks"
+    },
+    {
+      "page": "home",
+      "key": "home.s7.figcaption2",
+      "section": "Principal areas of expertise",
+      "order": 48,
+      "type": "text",
+      "label": "API petroleum tanks",
+      "value": "API petroleum tanks"
+    },
+    {
+      "page": "home",
+      "key": "home.s7.img3",
+      "section": "Principal areas of expertise",
+      "order": 49,
+      "type": "image",
+      "label": "Image · 3D model of a tall multilevel parking tower",
+      "value": "assets/images/parking-tower-3d-model-mahalaxmi.jpg",
+      "alt": "3D model of a tall multilevel parking tower"
+    },
+    {
+      "page": "home",
+      "key": "home.s7.figcaption3",
+      "section": "Principal areas of expertise",
+      "order": 50,
+      "type": "text",
+      "label": "Parking tower — 3D model view",
+      "value": "Parking tower — 3D model view"
+    },
+    {
+      "page": "home",
+      "key": "home.s8.p1",
+      "section": "Software we work with",
+      "order": 51,
+      "type": "text",
+      "label": "Technical capabilities",
+      "value": "Technical capabilities"
+    },
+    {
+      "page": "home",
+      "key": "home.s8.h21",
+      "section": "Software we work with",
+      "order": 52,
+      "type": "text",
+      "label": "Software we work with",
+      "value": "Software we work with"
+    },
+    {
+      "page": "home",
+      "key": "home.s8.p2",
+      "section": "Software we work with",
+      "order": 53,
+      "type": "text",
+      "label": "Software as listed in the SES company profile. Product names",
+      "value": "Software as listed in the SES company profile. Product names belong to their respective owners; listing does not imply any partnership or endorsement."
+    },
+    {
+      "page": "home",
+      "key": "home.s9.p1",
+      "section": "Some of our clients",
+      "order": 54,
+      "type": "text",
+      "label": "Clients",
+      "value": "Clients"
+    },
+    {
+      "page": "home",
+      "key": "home.s9.h21",
+      "section": "Some of our clients",
+      "order": 55,
+      "type": "text",
+      "label": "Some of our clients",
+      "value": "Some of our clients"
+    },
+    {
+      "page": "home",
+      "key": "home.s9.p2",
+      "section": "Some of our clients",
+      "order": 56,
+      "type": "text",
+      "label": "Names as listed in the SES company profile.",
+      "value": "Names as listed in the SES company profile."
+    },
+    {
+      "page": "home",
+      "key": "home.s10.h21",
+      "section": "Have an Engineering Project in Mind?",
+      "order": 57,
+      "type": "text",
+      "label": "Have an Engineering Project in Mind?",
+      "value": "Have an Engineering Project in Mind?"
+    },
+    {
+      "page": "home",
+      "key": "home.s10.p1",
+      "section": "Have an Engineering Project in Mind?",
+      "order": 58,
+      "type": "text",
+      "label": "Let’s discuss your structural design, modelling and detailin",
+      "value": "Let’s discuss your structural design, modelling and detailing requirements."
+    },
+    {
+      "page": "home",
+      "key": "home.s10.span1",
+      "section": "Have an Engineering Project in Mind?",
+      "order": 59,
+      "type": "text",
+      "label": "Discuss Your Project",
+      "value": "Discuss Your Project",
+      "hasHref": true,
+      "href": "contact.html#enquiry"
+    },
+    {
+      "page": "home",
+      "key": "home.s10.a1",
+      "section": "Have an Engineering Project in Mind?",
+      "order": 60,
+      "type": "text",
+      "label": "Contact Our Team",
+      "value": "Contact Our Team",
+      "hasHref": true,
+      "href": "contact.html"
+    },
+    {
+      "page": "about",
+      "key": "about.s1.img1",
+      "section": "Civil and structural engineering, from Pune.",
+      "order": 1,
+      "type": "image",
+      "label": "Image · photo-1653280662710-1cac52cde6d7?auto=format&fit=crop&w=2000",
+      "value": "https://images.unsplash.com/photo-1653280662710-1cac52cde6d7?auto=format&fit=crop&w=2000&q=80",
+      "alt": ""
+    },
+    {
+      "page": "about",
+      "key": "about.s1.p1",
+      "section": "Civil and structural engineering, from Pune.",
+      "order": 2,
+      "type": "text",
+      "label": "About Us",
+      "value": "About Us"
+    },
+    {
+      "page": "about",
+      "key": "about.s1.h11",
+      "section": "Civil and structural engineering, from Pune.",
+      "order": 3,
+      "type": "text",
+      "label": "Civil and structural engineering, from Pune.",
+      "value": "Civil and structural engineering, from Pune."
+    },
+    {
+      "page": "about",
+      "key": "about.s1.p2",
+      "section": "Civil and structural engineering, from Pune.",
+      "order": 4,
+      "type": "text",
+      "label": "Samarth Engineering Services designs, models and details str",
+      "value": "Samarth Engineering Services designs, models and details structures for industrial, refinery, commercial, residential and infrastructure projects."
+    },
+    {
+      "page": "about",
+      "key": "about.s2.p1",
+      "section": "Engineering Expertise You Can Build On",
+      "order": 5,
+      "type": "text",
+      "label": "Company overview",
+      "value": "Company overview"
+    },
+    {
+      "page": "about",
+      "key": "about.s2.h21",
+      "section": "Engineering Expertise You Can Build On",
+      "order": 6,
+      "type": "text",
+      "label": "Engineering Expertise You Can Build On",
+      "value": "Engineering Expertise You Can Build On"
+    },
+    {
+      "page": "about",
+      "key": "about.s2.p2",
+      "section": "Engineering Expertise You Can Build On",
+      "order": 7,
+      "type": "text",
+      "label": "SES provides civil and structural design and certification o",
+      "value": "SES provides civil and structural design and certification of industrial, refinery, commercial, residential and infrastructure structures in structural steel and reinforced concrete."
+    },
+    {
+      "page": "about",
+      "key": "about.s2.p3",
+      "section": "Engineering Expertise You Can Build On",
+      "order": 8,
+      "type": "text",
+      "label": "Alongside design, the team prepares detailed, fabrication, c",
+      "value": "Alongside design, the team prepares detailed, fabrication, construction and survey drawings, digital 3D models for precise layout of industrial equipment and supporting structures, exact bills of material, BOQ and estimation, and finite element analysis for special structures."
+    },
+    {
+      "page": "about",
+      "key": "about.s2.p4",
+      "section": "Engineering Expertise You Can Build On",
+      "order": 9,
+      "type": "text",
+      "label": "The 2026–27 company profile reports more than 865 structural",
+      "value": "The 2026–27 company profile reports more than 865 structural steel projects and 115 RCC projects — over 980 in total."
+    },
+    {
+      "page": "about",
+      "key": "about.s3.p1",
+      "section": "How a project moves through SES",
+      "order": 10,
+      "type": "text",
+      "label": "Engineering approach",
+      "value": "Engineering approach"
+    },
+    {
+      "page": "about",
+      "key": "about.s3.h21",
+      "section": "How a project moves through SES",
+      "order": 11,
+      "type": "text",
+      "label": "How a project moves through SES",
+      "value": "How a project moves through SES"
+    },
+    {
+      "page": "about",
+      "key": "about.s3.p2",
+      "section": "How a project moves through SES",
+      "order": 12,
+      "type": "text",
+      "label": "A summary of our service workflow, based on the services in ",
+      "value": "A summary of our service workflow, based on the services in our company profile."
+    },
+    {
+      "page": "about",
+      "key": "about.s3.span1",
+      "section": "How a project moves through SES",
+      "order": 13,
+      "type": "text",
+      "label": "01",
+      "value": "01"
+    },
+    {
+      "page": "about",
+      "key": "about.s3.h31",
+      "section": "How a project moves through SES",
+      "order": 14,
+      "type": "text",
+      "label": "Understand",
+      "value": "Understand"
+    },
+    {
+      "page": "about",
+      "key": "about.s3.p3",
+      "section": "How a project moves through SES",
+      "order": 15,
+      "type": "text",
+      "label": "Review the client’s requirements, loads, equipment and site ",
+      "value": "Review the client’s requirements, loads, equipment and site conditions."
+    },
+    {
+      "page": "about",
+      "key": "about.s3.span2",
+      "section": "How a project moves through SES",
+      "order": 16,
+      "type": "text",
+      "label": "02",
+      "value": "02"
+    },
+    {
+      "page": "about",
+      "key": "about.s3.h32",
+      "section": "How a project moves through SES",
+      "order": 17,
+      "type": "text",
+      "label": "Analyse and design",
+      "value": "Analyse and design"
+    },
+    {
+      "page": "about",
+      "key": "about.s3.p4",
+      "section": "How a project moves through SES",
+      "order": 18,
+      "type": "text",
+      "label": "Design in steel or RCC to applicable codes, with FEA for spe",
+      "value": "Design in steel or RCC to applicable codes, with FEA for special components."
+    },
+    {
+      "page": "about",
+      "key": "about.s3.span3",
+      "section": "How a project moves through SES",
+      "order": 19,
+      "type": "text",
+      "label": "03",
+      "value": "03"
+    },
+    {
+      "page": "about",
+      "key": "about.s3.h33",
+      "section": "How a project moves through SES",
+      "order": 20,
+      "type": "text",
+      "label": "Model and detail",
+      "value": "Model and detail"
+    },
+    {
+      "page": "about",
+      "key": "about.s3.p5",
+      "section": "How a project moves through SES",
+      "order": 21,
+      "type": "text",
+      "label": "Build 3D models and produce fabrication and construction dra",
+      "value": "Build 3D models and produce fabrication and construction drawings."
+    },
+    {
+      "page": "about",
+      "key": "about.s3.span4",
+      "section": "How a project moves through SES",
+      "order": 22,
+      "type": "text",
+      "label": "04",
+      "value": "04"
+    },
+    {
+      "page": "about",
+      "key": "about.s3.h34",
+      "section": "How a project moves through SES",
+      "order": 23,
+      "type": "text",
+      "label": "Document and review",
+      "value": "Document and review"
+    },
+    {
+      "page": "about",
+      "key": "about.s3.p6",
+      "section": "How a project moves through SES",
+      "order": 24,
+      "type": "text",
+      "label": "Provide bills of material, calculations and design review on",
+      "value": "Provide bills of material, calculations and design review on request."
+    },
+    {
+      "page": "about",
+      "key": "about.s4.p1",
+      "section": "What we specialise in",
+      "order": 25,
+      "type": "text",
+      "label": "Areas of expertise",
+      "value": "Areas of expertise"
+    },
+    {
+      "page": "about",
+      "key": "about.s4.h21",
+      "section": "What we specialise in",
+      "order": 26,
+      "type": "text",
+      "label": "What we specialise in",
+      "value": "What we specialise in"
+    },
+    {
+      "page": "about",
+      "key": "about.s4.h31",
+      "section": "What we specialise in",
+      "order": 27,
+      "type": "text",
+      "label": "Codal expertise",
+      "value": "Codal expertise"
+    },
+    {
+      "page": "about",
+      "key": "about.s4.p2",
+      "section": "What we specialise in",
+      "order": 28,
+      "type": "text",
+      "label": "Codes and standards listed in the SES capability deck.",
+      "value": "Codes and standards listed in the SES capability deck."
+    },
+    {
+      "page": "about",
+      "key": "about.s5.p1",
+      "section": "The engineers and detailers behind the work",
+      "order": 29,
+      "type": "text",
+      "label": "Our team",
+      "value": "Our team"
+    },
+    {
+      "page": "about",
+      "key": "about.s5.h21",
+      "section": "The engineers and detailers behind the work",
+      "order": 30,
+      "type": "text",
+      "label": "The engineers and detailers behind the work",
+      "value": "The engineers and detailers behind the work"
+    },
+    {
+      "page": "about",
+      "key": "about.s5.p2",
+      "section": "The engineers and detailers behind the work",
+      "order": 31,
+      "type": "text",
+      "label": "Qualifications and experience as stated in the 2026–27 compa",
+      "value": "Qualifications and experience as stated in the 2026–27 company profile."
+    },
+    {
+      "page": "about",
+      "key": "about.s6.p1",
+      "section": "Hardware and software",
+      "order": 32,
+      "type": "text",
+      "label": "Our infrastructure",
+      "value": "Our infrastructure"
+    },
+    {
+      "page": "about",
+      "key": "about.s6.h21",
+      "section": "Hardware and software",
+      "order": 33,
+      "type": "text",
+      "label": "Hardware and software",
+      "value": "Hardware and software"
+    },
+    {
+      "page": "about",
+      "key": "about.s6.span1",
+      "section": "Hardware and software",
+      "order": 34,
+      "type": "text",
+      "label": "Hardware",
+      "value": "Hardware"
+    },
+    {
+      "page": "about",
+      "key": "about.s6.li1",
+      "section": "Hardware and software",
+      "order": 35,
+      "type": "text",
+      "label": "14 computer systems",
+      "value": "14 computer systems"
+    },
+    {
+      "page": "about",
+      "key": "about.s6.li2",
+      "section": "Hardware and software",
+      "order": 36,
+      "type": "text",
+      "label": "HP Officejet K7108 printer",
+      "value": "HP Officejet K7108 printer"
+    },
+    {
+      "page": "about",
+      "key": "about.s6.li3",
+      "section": "Hardware and software",
+      "order": 37,
+      "type": "text",
+      "label": "Samsung laser printer",
+      "value": "Samsung laser printer"
+    },
+    {
+      "page": "about",
+      "key": "about.s6.li4",
+      "section": "Hardware and software",
+      "order": 38,
+      "type": "text",
+      "label": "HP J4580 scanner-printer",
+      "value": "HP J4580 scanner-printer"
+    },
+    {
+      "page": "about",
+      "key": "about.s6.li5",
+      "section": "Hardware and software",
+      "order": 39,
+      "type": "text",
+      "label": "Designjet Z5400 plotter, up to 2A0 (45”) sheets",
+      "value": "Designjet Z5400 plotter, up to 2A0 (45”) sheets"
+    },
+    {
+      "page": "about",
+      "key": "about.s6.p2",
+      "section": "Hardware and software",
+      "order": 40,
+      "type": "text",
+      "label": "Software as listed in the company profile; no partnership or",
+      "value": "Software as listed in the company profile; no partnership or endorsement is implied."
+    },
+    {
+      "page": "about",
+      "key": "about.s7.h21",
+      "section": "Project statistics · as stated in the company prof",
+      "order": 41,
+      "type": "text",
+      "label": "Project statistics · as stated in the company profile",
+      "value": "Project statistics · as stated in the company profile"
+    },
+    {
+      "page": "about",
+      "key": "about.s7.dt1",
+      "section": "Project statistics · as stated in the company prof",
+      "order": 42,
+      "type": "text",
+      "label": "Structural steel projects",
+      "value": "Structural steel projects"
+    },
+    {
+      "page": "about",
+      "key": "about.s7.span1",
+      "section": "Project statistics · as stated in the company prof",
+      "order": 43,
+      "type": "count",
+      "label": "Counter · Structural steel projects865+",
+      "value": "865",
+      "suffix": "+"
+    },
+    {
+      "page": "about",
+      "key": "about.s7.dt2",
+      "section": "Project statistics · as stated in the company prof",
+      "order": 44,
+      "type": "text",
+      "label": "RCC projects",
+      "value": "RCC projects"
+    },
+    {
+      "page": "about",
+      "key": "about.s7.span2",
+      "section": "Project statistics · as stated in the company prof",
+      "order": 45,
+      "type": "count",
+      "label": "Counter · RCC projects115",
+      "value": "115",
+      "suffix": ""
+    },
+    {
+      "page": "about",
+      "key": "about.s7.dt3",
+      "section": "Project statistics · as stated in the company prof",
+      "order": 46,
+      "type": "text",
+      "label": "Total projects",
+      "value": "Total projects"
+    },
+    {
+      "page": "about",
+      "key": "about.s7.span3",
+      "section": "Project statistics · as stated in the company prof",
+      "order": 47,
+      "type": "count",
+      "label": "Counter · Total projects980+",
+      "value": "980",
+      "suffix": "+"
+    },
+    {
+      "page": "about",
+      "key": "about.s8.h21",
+      "section": "Have an Engineering Project in Mind?",
+      "order": 48,
+      "type": "text",
+      "label": "Have an Engineering Project in Mind?",
+      "value": "Have an Engineering Project in Mind?"
+    },
+    {
+      "page": "about",
+      "key": "about.s8.p1",
+      "section": "Have an Engineering Project in Mind?",
+      "order": 49,
+      "type": "text",
+      "label": "Let’s discuss your structural design, modelling and detailin",
+      "value": "Let’s discuss your structural design, modelling and detailing requirements."
+    },
+    {
+      "page": "about",
+      "key": "about.s8.span1",
+      "section": "Have an Engineering Project in Mind?",
+      "order": 50,
+      "type": "text",
+      "label": "Discuss Your Project",
+      "value": "Discuss Your Project",
+      "hasHref": true,
+      "href": "contact.html#enquiry"
+    },
+    {
+      "page": "about",
+      "key": "about.s8.a1",
+      "section": "Have an Engineering Project in Mind?",
+      "order": 51,
+      "type": "text",
+      "label": "Contact Our Team",
+      "value": "Contact Our Team",
+      "hasHref": true,
+      "href": "contact.html"
+    },
+    {
+      "page": "services",
+      "key": "services.s1.img1",
+      "section": "Design, modelling and documentation under one roof",
+      "order": 1,
+      "type": "image",
+      "label": "Image · photo-1527335988388-b40ee248d80c?auto=format&fit=crop&w=2000",
+      "value": "https://images.unsplash.com/photo-1527335988388-b40ee248d80c?auto=format&fit=crop&w=2000&q=80",
+      "alt": ""
+    },
+    {
+      "page": "services",
+      "key": "services.s1.p1",
+      "section": "Design, modelling and documentation under one roof",
+      "order": 2,
+      "type": "text",
+      "label": "Services",
+      "value": "Services"
+    },
+    {
+      "page": "services",
+      "key": "services.s1.h11",
+      "section": "Design, modelling and documentation under one roof",
+      "order": 3,
+      "type": "text",
+      "label": "Design, modelling and documentation under one roof.",
+      "value": "Design, modelling and documentation under one roof."
+    },
+    {
+      "page": "services",
+      "key": "services.s1.p2",
+      "section": "Design, modelling and documentation under one roof",
+      "order": 4,
+      "type": "text",
+      "label": "Nine connected services covering structural design, 3D model",
+      "value": "Nine connected services covering structural design, 3D modelling, drawings, analysis, estimation and review."
+    },
+    {
+      "page": "services",
+      "key": "services.s3.h21",
+      "section": "Have an Engineering Project in Mind?",
+      "order": 5,
+      "type": "text",
+      "label": "Have an Engineering Project in Mind?",
+      "value": "Have an Engineering Project in Mind?"
+    },
+    {
+      "page": "services",
+      "key": "services.s3.p1",
+      "section": "Have an Engineering Project in Mind?",
+      "order": 6,
+      "type": "text",
+      "label": "Let’s discuss your structural design, modelling and detailin",
+      "value": "Let’s discuss your structural design, modelling and detailing requirements."
+    },
+    {
+      "page": "services",
+      "key": "services.s3.span1",
+      "section": "Have an Engineering Project in Mind?",
+      "order": 7,
+      "type": "text",
+      "label": "Discuss Your Project",
+      "value": "Discuss Your Project",
+      "hasHref": true,
+      "href": "contact.html#enquiry"
+    },
+    {
+      "page": "services",
+      "key": "services.s3.a1",
+      "section": "Have an Engineering Project in Mind?",
+      "order": 8,
+      "type": "text",
+      "label": "Contact Our Team",
+      "value": "Contact Our Team",
+      "hasHref": true,
+      "href": "contact.html"
+    },
+    {
+      "page": "projects",
+      "key": "projects.s1.img1",
+      "section": "A portfolio of industrial, parking and RCC structu",
+      "order": 1,
+      "type": "image",
+      "label": "Image · car-parking-structure-mumbai.jpg",
+      "value": "assets/images/car-parking-structure-mumbai.jpg",
+      "alt": ""
+    },
+    {
+      "page": "projects",
+      "key": "projects.s1.p1",
+      "section": "A portfolio of industrial, parking and RCC structu",
+      "order": 2,
+      "type": "text",
+      "label": "Projects",
+      "value": "Projects"
+    },
+    {
+      "page": "projects",
+      "key": "projects.s1.h11",
+      "section": "A portfolio of industrial, parking and RCC structu",
+      "order": 3,
+      "type": "text",
+      "label": "A portfolio of industrial, parking and RCC structures.",
+      "value": "A portfolio of industrial, parking and RCC structures."
+    },
+    {
+      "page": "projects",
+      "key": "projects.s1.p2",
+      "section": "A portfolio of industrial, parking and RCC structu",
+      "order": 4,
+      "type": "text",
+      "label": "Project examples named in the SES company profile. Filter by",
+      "value": "Project examples named in the SES company profile. Filter by category or open a project for details."
+    },
+    {
+      "page": "projects",
+      "key": "projects.s2.h21",
+      "section": "Project portfolio",
+      "order": 5,
+      "type": "text",
+      "label": "Project portfolio",
+      "value": "Project portfolio"
+    },
+    {
+      "page": "projects",
+      "key": "projects.s2.p1",
+      "section": "Project portfolio",
+      "order": 6,
+      "type": "text",
+      "label": "Image labels: “Photograph from company profile” images come ",
+      "value": "Image labels: “Photograph from company profile” images come from the SES profile; “3D model view” and “Analysis model view” are engineering model screenshots, not photographs of finished works. Completed or ongoing status is shown only where the profile states it. Please verify image–project pairings before publishing."
+    },
+    {
+      "page": "projects",
+      "key": "projects.s3.h21",
+      "section": "Have an Engineering Project in Mind?",
+      "order": 7,
+      "type": "text",
+      "label": "Have an Engineering Project in Mind?",
+      "value": "Have an Engineering Project in Mind?"
+    },
+    {
+      "page": "projects",
+      "key": "projects.s3.p1",
+      "section": "Have an Engineering Project in Mind?",
+      "order": 8,
+      "type": "text",
+      "label": "Let’s discuss your structural design, modelling and detailin",
+      "value": "Let’s discuss your structural design, modelling and detailing requirements."
+    },
+    {
+      "page": "projects",
+      "key": "projects.s3.span1",
+      "section": "Have an Engineering Project in Mind?",
+      "order": 9,
+      "type": "text",
+      "label": "Discuss Your Project",
+      "value": "Discuss Your Project",
+      "hasHref": true,
+      "href": "contact.html#enquiry"
+    },
+    {
+      "page": "projects",
+      "key": "projects.s3.a1",
+      "section": "Have an Engineering Project in Mind?",
+      "order": 10,
+      "type": "text",
+      "label": "Contact Our Team",
+      "value": "Contact Our Team",
+      "hasHref": true,
+      "href": "contact.html"
+    },
+    {
+      "page": "contact",
+      "key": "contact.s1.img1",
+      "section": "Let’s talk about your structure.",
+      "order": 1,
+      "type": "image",
+      "label": "Image · photo-1653280662710-1cac52cde6d7?auto=format&fit=crop&w=2000",
+      "value": "https://images.unsplash.com/photo-1653280662710-1cac52cde6d7?auto=format&fit=crop&w=2000&q=80",
+      "alt": ""
+    },
+    {
+      "page": "contact",
+      "key": "contact.s1.p1",
+      "section": "Let’s talk about your structure.",
+      "order": 2,
+      "type": "text",
+      "label": "Contact",
+      "value": "Contact"
+    },
+    {
+      "page": "contact",
+      "key": "contact.s1.h11",
+      "section": "Let’s talk about your structure.",
+      "order": 3,
+      "type": "text",
+      "label": "Let’s talk about your structure.",
+      "value": "Let’s talk about your structure."
+    },
+    {
+      "page": "contact",
+      "key": "contact.s1.p2",
+      "section": "Let’s talk about your structure.",
+      "order": 4,
+      "type": "text",
+      "label": "Call, email or send an enquiry. Our team will respond to you",
+      "value": "Call, email or send an enquiry. Our team will respond to your project requirements."
+    },
+    {
+      "page": "contact",
+      "key": "contact.s2.h21",
+      "section": "Send an enquiry",
+      "order": 5,
+      "type": "text",
+      "label": "Send an enquiry",
+      "value": "Send an enquiry"
+    },
+    {
+      "page": "contact",
+      "key": "contact.s2.p1",
+      "section": "Send an enquiry",
+      "order": 6,
+      "type": "text",
+      "label": "Fields marked * are required. Your enquiry is sent directly ",
+      "value": "Fields marked * are required. Your enquiry is sent directly to our team."
+    },
+    {
+      "page": "notfound",
+      "key": "notfound.s0.img1",
+      "section": "",
+      "order": 1,
+      "type": "image",
+      "label": "Image · photo-1527335988388-b40ee248d80c?auto=format&fit=crop&w=2000",
+      "value": "https://images.unsplash.com/photo-1527335988388-b40ee248d80c?auto=format&fit=crop&w=2000&q=80",
+      "alt": ""
+    },
+    {
+      "page": "notfound",
+      "key": "notfound.s4.p1",
+      "section": "Page not found",
+      "order": 2,
+      "type": "text",
+      "label": "Error 404",
+      "value": "Error 404"
+    },
+    {
+      "page": "notfound",
+      "key": "notfound.s4.h11",
+      "section": "Page not found",
+      "order": 3,
+      "type": "text",
+      "label": "Page not found",
+      "value": "Page not found"
+    },
+    {
+      "page": "notfound",
+      "key": "notfound.s4.p2",
+      "section": "Page not found",
+      "order": 4,
+      "type": "text",
+      "label": "The page you’re looking for doesn’t exist or has moved.",
+      "value": "The page you’re looking for doesn’t exist or has moved."
+    },
+    {
+      "page": "notfound",
+      "key": "notfound.s4.a1",
+      "section": "Page not found",
+      "order": 5,
+      "type": "text",
+      "label": "Back to home",
+      "value": "Back to home",
+      "hasHref": true,
+      "href": "index.html"
+    },
+    {
+      "page": "notfound",
+      "key": "notfound.s4.a2",
+      "section": "Page not found",
+      "order": 6,
+      "type": "text",
+      "label": "Contact us",
+      "value": "Contact us",
+      "hasHref": true,
+      "href": "contact.html"
+    }
+  ]
+}

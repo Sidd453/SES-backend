@@ -1,0 +1,648 @@
+{
+  "contact": {
+    "website": "www.sesdesigns.com",
+    "addressLines": [
+      "Samarth Engineering Services",
+      "202, Vasudeo Sahaniwas",
+      "335 Narayan Peth",
+      "Pune 411030, Maharashtra, India"
+    ],
+    "mapQuery": "202 Vasudeo Sahaniwas, 335 Narayan Peth, Pune 411030",
+    "people": [
+      {
+        "name": "Akhilesh (Rajaram) M. Kajarekar",
+        "role": "Design Head",
+        "phone": "7385881446",
+        "email": "rajarammk@sesdesigns.com"
+      },
+      {
+        "name": "Abhijeet Pingale",
+        "role": "Engineering – Estimation and Projects",
+        "phone": "9637736992",
+        "email": "abhijeetup@sesdesigns.com"
+      }
+    ]
+  },
+  "services": [
+    {
+      "id": "civil-structural-design",
+      "icon": "building-2",
+      "title": "Civil and Structural Design",
+      "img": "peb-shed-raigad",
+      "short": "Design and certification of industrial, refinery, commercial, residential and infrastructure structures.",
+      "overview": "We design the load-carrying frame of a building or industrial structure and certify it, so owners, contractors and authorities can build with confidence. Work covers structures in structural steel and in reinforced concrete.",
+      "involves": [
+        "Assessing loads and selecting a suitable structural system",
+        "Analysis and design to applicable Indian and international codes",
+        "Design calculations and certification",
+        "Handing over to detailing so the design becomes buildable drawings"
+      ],
+      "uses": [
+        "Industrial buildings",
+        "Refinery structures",
+        "Commercial buildings",
+        "Residential buildings",
+        "Infrastructure structures"
+      ],
+      "related": [
+        "structural-steel-design",
+        "rcc-design",
+        "fabrication-construction-drawings"
+      ]
+    },
+    {
+      "id": "structural-steel-design",
+      "icon": "construction",
+      "title": "Structural Steel Design",
+      "img": "stadium-stand-dervan",
+      "short": "Steel frames, sheds, platforms and towers — the core of more than 865 projects stated in our profile.",
+      "overview": "Structural steel is light, fast to erect and ideal for large spans and heavy industrial duty. We design steel members and their connections so the structure is safe, economical and practical to fabricate.",
+      "involves": [
+        "Framing layout and member sizing",
+        "Connection design (including joint design tools such as IDEA StatiCa)",
+        "Platforms, supports and bracing for equipment",
+        "Coordination with 3D modelling and fabrication drawings"
+      ],
+      "uses": [
+        "Pre-engineered building (PEB) sheds and warehouses",
+        "Screen houses",
+        "Stadium stands",
+        "Car parking structures",
+        "Transfer towers and conveyor structures"
+      ],
+      "related": [
+        "civil-structural-design",
+        "3d-modelling-detailing",
+        "fabrication-construction-drawings"
+      ]
+    },
+    {
+      "id": "rcc-design",
+      "icon": "layers",
+      "title": "Reinforced Concrete (RCC) Design",
+      "img": "rcc-conveyor-structure-gangakhed",
+      "short": "Design of reinforced concrete structures, including conveyor supports and liquid-storage tanks.",
+      "overview": "Reinforced concrete combines concrete and steel bars to carry heavy, long-lasting loads. Our profile lists 115 RCC projects, including industrial conveyor supports and tanks.",
+      "involves": [
+        "Structural analysis and member design",
+        "Reinforcement design and detailing support (RCDC / RCDC FE)",
+        "Liquid-retaining structure design to IS 3370",
+        "Design of underground storage tanks"
+      ],
+      "uses": [
+        "Conveyor supporting structures",
+        "Fluid tanks",
+        "Underground storage tanks",
+        "Commercial and residential structures"
+      ],
+      "related": [
+        "civil-structural-design",
+        "fabrication-construction-drawings",
+        "boq-estimation"
+      ]
+    },
+    {
+      "id": "3d-modelling-detailing",
+      "icon": "box",
+      "title": "3D Modelling and Detailing",
+      "img": "refinery-support-structure-bathinda-3d",
+      "short": "Digital 3D models for precise layout of industrial equipment and supporting structures.",
+      "overview": "A 3D model is a digital twin of the structure. It lets everyone see how steelwork, equipment and access fit together before anything is fabricated, which reduces clashes and rework.",
+      "involves": [
+        "Building accurate 3D models of structures and platforms",
+        "Laying out equipment and supports precisely",
+        "Extracting drawings and material lists from the model",
+        "Modelling with tools such as Solid Edge and Prosteel"
+      ],
+      "uses": [
+        "Refinery equipment support structures",
+        "Pneumatic equipment supports",
+        "Hanging conveyor lines",
+        "Stacks and multilevel parking towers"
+      ],
+      "related": [
+        "fabrication-construction-drawings",
+        "structural-steel-design",
+        "boq-estimation"
+      ]
+    },
+    {
+      "id": "fabrication-construction-drawings",
+      "icon": "drafting-compass",
+      "title": "Fabrication and Construction Drawings",
+      "img": "equipment-support-3d-model",
+      "short": "Detailed, fabrication, construction and survey drawings ready for the workshop and the site.",
+      "overview": "Drawings are how a design reaches the workshop floor and the construction site. We prepare clear, coordinated drawing sets that fabricators and contractors can follow.",
+      "involves": [
+        "Detailed drawings of members and connections",
+        "Fabrication drawings for the workshop",
+        "Construction drawings for the site",
+        "Survey drawings"
+      ],
+      "uses": [
+        "Steel fabrication",
+        "RCC construction",
+        "Industrial equipment support structures"
+      ],
+      "related": [
+        "3d-modelling-detailing",
+        "boq-estimation",
+        "structural-steel-design"
+      ]
+    },
+    {
+      "id": "finite-element-analysis",
+      "icon": "activity",
+      "title": "Finite Element Analysis (FEA)",
+      "img": "base-plate-fea-model-iran",
+      "short": "Advanced analysis of special, complex and non-conventional structures and components.",
+      "overview": "FEA breaks a complicated component into thousands of small elements to see how stress flows through it. It is used when standard hand methods are not enough, and is carried out as required by the client.",
+      "involves": [
+        "Building an analysis model of the component or structure",
+        "Checking stress and behaviour under load",
+        "Reporting results to support design decisions"
+      ],
+      "uses": [
+        "Base plates (example: base plate analysis model for a project in Iran)",
+        "Special and non-conventional structural components"
+      ],
+      "related": [
+        "design-review-consultation",
+        "structural-steel-design",
+        "civil-structural-design"
+      ]
+    },
+    {
+      "id": "boq-estimation",
+      "icon": "calculator",
+      "title": "Bill of Quantities (BOQ) and Estimation",
+      "img": "pollution-control-structure-model",
+      "short": "Exact bills of material and BOQ estimation for industrial structures.",
+      "overview": "A bill of quantities lists what a structure needs — how much steel, concrete and other materials. It helps clients budget, tender and purchase accurately.",
+      "involves": [
+        "Preparing exact bills of materials for industrial structures",
+        "BOQ and estimation",
+        "Linking quantities to the design and 3D model"
+      ],
+      "uses": [
+        "Industrial steel structures",
+        "Tendering and procurement planning"
+      ],
+      "related": [
+        "3d-modelling-detailing",
+        "fabrication-construction-drawings",
+        "civil-structural-design"
+      ]
+    },
+    {
+      "id": "solar-structure-design",
+      "icon": "sun",
+      "title": "Solar Structure Feasibility and Design",
+      "img": "solar-power-structures",
+      "short": "Feasibility, shadow analysis and structural design of solar power structures.",
+      "overview": "Solar arrays need supporting structures that hold panels at the right position and survive wind and weather. We assess feasibility, study shadows, and design the supporting structure.",
+      "involves": [
+        "Feasibility assessment",
+        "Shadow analysis",
+        "Structural design of solar power structures"
+      ],
+      "uses": [
+        "Ground-mounted and rooftop solar structures"
+      ],
+      "related": [
+        "structural-steel-design",
+        "civil-structural-design",
+        "design-review-consultation"
+      ]
+    },
+    {
+      "id": "design-review-consultation",
+      "icon": "clipboard-check",
+      "title": "Design Review and Engineering Consultation",
+      "img": "transfer-tower-houston-model",
+      "short": "Design review at client request and detailed calculations for third-party consultants.",
+      "overview": "Sometimes you already have a design and want an experienced second opinion. We review designs on request and can supply detailed calculations to a third-party consultant when required.",
+      "involves": [
+        "Reviewing designs and calculations at the client’s request",
+        "Providing detailed calculations to third-party consultants",
+        "Advising on practical engineering decisions"
+      ],
+      "uses": [
+        "Industrial, commercial and infrastructure projects"
+      ],
+      "related": [
+        "finite-element-analysis",
+        "civil-structural-design",
+        "structural-steel-design"
+      ]
+    }
+  ],
+  "filters": [
+    {
+      "key": "all",
+      "label": "All"
+    },
+    {
+      "key": "industrial",
+      "label": "Industrial Structures"
+    },
+    {
+      "key": "parking",
+      "label": "Parking Structures"
+    },
+    {
+      "key": "rcc",
+      "label": "RCC"
+    },
+    {
+      "key": "modelling",
+      "label": "3D Modelling and FEA"
+    }
+  ],
+  "projects": [
+    {
+      "id": "peb-shed-raigad",
+      "featured": 1,
+      "title": "Industrial PEB Shed at Raigad",
+      "cats": [
+        "industrial"
+      ],
+      "catLabel": "Structural Steel",
+      "loc": "Raigad, Maharashtra",
+      "img": "peb-shed-raigad",
+      "type": "Photograph from company profile",
+      "desc": "Structural steel design of an industrial pre-engineered building (PEB) shed."
+    },
+    {
+      "id": "screen-house-jindal-power",
+      "featured": 1,
+      "title": "Screen House for Jindal Power",
+      "cats": [
+        "industrial"
+      ],
+      "catLabel": "Structural Steel",
+      "loc": "Client: Jindal Power",
+      "img": "screen-house-jindal-power-model",
+      "type": "3D model view",
+      "desc": "Structural steel design of a screen house for a power-sector client."
+    },
+    {
+      "id": "stadium-stand-dervan",
+      "featured": 1,
+      "title": "Stadium Stand at Dervan",
+      "cats": [
+        "industrial"
+      ],
+      "catLabel": "Structural Steel",
+      "loc": "Dervan",
+      "img": "stadium-stand-dervan",
+      "type": "Photograph from company profile",
+      "desc": "Steel structure for a stadium stand, listed among SES structural steel design projects."
+    },
+    {
+      "id": "car-parking-mumbai",
+      "featured": 1,
+      "title": "Car Parking Structure at Mumbai",
+      "cats": [
+        "parking"
+      ],
+      "catLabel": "Parking Structure",
+      "loc": "Mumbai",
+      "img": "car-parking-structure-mumbai",
+      "type": "Photograph from company profile",
+      "desc": "Structural steel car parking structure in Mumbai."
+    },
+    {
+      "id": "transfer-tower-houston",
+      "featured": 1,
+      "title": "Transfer Tower in Houston, Texas, USA",
+      "cats": [
+        "industrial",
+        "modelling"
+      ],
+      "catLabel": "Structural Steel",
+      "loc": "Houston, Texas, USA",
+      "img": "transfer-tower-houston-model",
+      "type": "3D model view",
+      "desc": "Conveyor transfer tower design for a project in the United States."
+    },
+    {
+      "id": "base-plate-fea-iran",
+      "featured": 1,
+      "title": "Base Plate FEA Analysis Model",
+      "cats": [
+        "modelling"
+      ],
+      "catLabel": "Finite Element Analysis",
+      "loc": "Iran",
+      "img": "base-plate-fea-model-iran",
+      "type": "Analysis model view",
+      "desc": "Finite element analysis model of a base plate for a project in Iran."
+    },
+    {
+      "id": "refinery-support-bathinda",
+      "featured": 1,
+      "title": "Refinery Equipment Support Structure",
+      "cats": [
+        "modelling",
+        "industrial"
+      ],
+      "catLabel": "3D Modelling",
+      "loc": "Bathinda",
+      "status": "Completed",
+      "img": "refinery-support-structure-bathinda-3d",
+      "type": "3D model view",
+      "desc": "Completed 3D modelling work for a refinery equipment support structure."
+    },
+    {
+      "id": "parking-tower-mahalaxmi",
+      "featured": 1,
+      "title": "100 m Parking Tower 3D Modelling Work",
+      "cats": [
+        "parking",
+        "modelling"
+      ],
+      "catLabel": "3D Modelling",
+      "loc": "Mahalaxmi, Mumbai",
+      "status": "Ongoing",
+      "img": "parking-tower-3d-model-mahalaxmi",
+      "type": "3D model view",
+      "desc": "Ongoing 3D modelling work for a 100-metre-high parking tower."
+    },
+    {
+      "id": "api-tanks-reliance-bhopal",
+      "featured": 1,
+      "title": "API Tanks for Reliance, Bhopal",
+      "cats": [
+        "industrial"
+      ],
+      "catLabel": "Petroleum Storage Tanks",
+      "loc": "Bhopal",
+      "img": "api-tanks-reliance-bhopal",
+      "type": "Photograph from company profile",
+      "desc": "Design work on API petroleum storage tanks for Reliance."
+    },
+    {
+      "id": "rcc-conveyor-gangakhed",
+      "title": "RCC Conveyor Supporting Structure, Gangakhed Sugar",
+      "cats": [
+        "rcc"
+      ],
+      "catLabel": "RCC",
+      "loc": "Gangakhed",
+      "img": "rcc-conveyor-structure-gangakhed",
+      "type": "Photograph from company profile",
+      "desc": "Reinforced concrete conveyor supporting structure, in association with Ajit Gijare and Associates."
+    },
+    {
+      "id": "fluid-tank-reliance",
+      "title": "Fluid Tank for Reliance Industries",
+      "cats": [
+        "rcc"
+      ],
+      "catLabel": "RCC",
+      "loc": "Client: Reliance Industries",
+      "img": "fluid-tank-reliance-model",
+      "type": "3D model view",
+      "desc": "RCC fluid tank, in association with the Project Management Group."
+    },
+    {
+      "id": "car-parking-visakhapatnam",
+      "title": "Car Parking in Visakhapatnam",
+      "cats": [
+        "parking"
+      ],
+      "catLabel": "Parking Structure",
+      "loc": "Visakhapatnam",
+      "img": "car-parking-visakhapatnam-model",
+      "type": "3D model view",
+      "desc": "Car parking structure design, listed in the company profile and capability deck as automated car parking."
+    },
+    {
+      "id": "peb-warehouse-maharashtra",
+      "title": "PEB Warehouse",
+      "cats": [
+        "industrial"
+      ],
+      "catLabel": "Structural Steel",
+      "loc": "Maharashtra",
+      "img": "peb-warehouse-model-maharashtra",
+      "type": "3D model view",
+      "desc": "Pre-engineered building warehouse in Maharashtra."
+    },
+    {
+      "id": "pollution-control-structure",
+      "title": "Pollution Control Equipment Structure",
+      "cats": [
+        "industrial"
+      ],
+      "catLabel": "Structural Steel",
+      "loc": "South East Asia",
+      "img": "pollution-control-structure-model",
+      "type": "3D model view",
+      "desc": "Supporting structure for pollution control equipment."
+    },
+    {
+      "id": "stack-30m-3d",
+      "title": "30 m Stack 3D Modelling",
+      "cats": [
+        "modelling"
+      ],
+      "catLabel": "3D Modelling",
+      "loc": "Image for representation (site photography not allowed)",
+      "img": "stack-30m-3d-model",
+      "type": "3D model view",
+      "desc": "Three-dimensional modelling of a 30-metre stack. The profile notes the image is for representation only."
+    },
+    {
+      "id": "hanging-conveyor-tamilnadu",
+      "title": "Hanging Conveyor Line",
+      "cats": [
+        "modelling"
+      ],
+      "catLabel": "3D Modelling",
+      "loc": "Tamil Nadu",
+      "img": "hanging-conveyor-3d-model-tamilnadu",
+      "type": "3D model view",
+      "desc": "3D modelling of a hanging conveyor line."
+    }
+  ],
+  "expertise": [
+    {
+      "icon": "factory",
+      "title": "Industrial steel structure design",
+      "text": "Design, modelling and detailing of steel structures for industry."
+    },
+    {
+      "icon": "cog",
+      "title": "Refinery equipment support structures",
+      "text": "Oil and gas refinery equipment mounting platforms."
+    },
+    {
+      "icon": "network",
+      "title": "Conveyor transfer towers",
+      "text": "Transfer towers for conveyors — design, modelling and detailing."
+    },
+    {
+      "icon": "cylinder",
+      "title": "Petroleum storage tanks",
+      "text": "API 650 petroleum tanks, plus underground storage tanks."
+    },
+    {
+      "icon": "car",
+      "title": "Multilevel parking structures",
+      "text": "Multilevel parking towers designed and detailed up to 100 metres."
+    },
+    {
+      "icon": "box",
+      "title": "3D modelling and detailing",
+      "text": "Digital models for precise layout of equipment and supports."
+    },
+    {
+      "icon": "drafting-compass",
+      "title": "Structural analysis and design",
+      "text": "Steel and RCC design to Indian and US codes."
+    }
+  ],
+  "codes": [
+    "IS 800:2007 – structural steel design",
+    "IS 456:2000 – plain and reinforced concrete",
+    "IS 875 (Parts 1–5) – loadings",
+    "IS 3370 – RCC liquid storage tanks",
+    "AISC 360-16 – US steel design",
+    "ASCE 7-10 – US minimum loads",
+    "ACI 318-11 – US RCC design"
+  ],
+  "software": [
+    {
+      "name": "STAAD.Pro",
+      "note": "V8i (Connect series)"
+    },
+    {
+      "name": "MIDAS Gen",
+      "note": "Version 15"
+    },
+    {
+      "name": "ProgeCAD",
+      "note": "2020"
+    },
+    {
+      "name": "ZWCAD",
+      "note": "2017"
+    },
+    {
+      "name": "RCDC / RCDC FE",
+      "note": "Concrete design & detailing"
+    },
+    {
+      "name": "Solid Edge",
+      "note": "19 – 3D modelling"
+    },
+    {
+      "name": "Prosteel",
+      "note": "3D modelling"
+    },
+    {
+      "name": "IDEA StatiCa",
+      "note": "Connection design suite"
+    }
+  ],
+  "clients": [
+    "Aditya Constructions",
+    "Advent Developers",
+    "AkzoNobel",
+    "Altem Energy Ltd.",
+    "Central Railway",
+    "Coperion Pvt Ltd",
+    "GAIL (India) Limited",
+    "Gokhale Architects",
+    "Jayshar Group",
+    "Khapare Builders",
+    "Mars Chocolate Ltd.",
+    "Meltek Infosystems Pvt Ltd.",
+    "Mojj Engineering Ltd.",
+    "Powersun Ltd",
+    "Project Management Group",
+    "RIECO",
+    "Rockland Energy",
+    "Rollwell Conveyor Components Pvt. Ltd.",
+    "Roof Top Urja Pvt Ltd.",
+    "Samarth Development Corporation",
+    "PED Consultants",
+    "True Vision Engineers",
+    "Multitech Hydrosystems",
+    "Skyzone Parking Systems",
+    "Advantek Conveying Systems",
+    "Optimus Enviro Ltd.",
+    "Pangulf Technologies Pvt Ltd",
+    "Jagdamba Engineering and Constructions (JEC)"
+  ],
+  "team": [
+    {
+      "name": "Mr. Akhilesh (Rajaram) M. Kajarekar",
+      "role": "Design Head",
+      "qual": "B.E. (Civil), M.Tech. (Structural Engineering); Member, Institution of Engineers (India)",
+      "exp": "20 years",
+      "text": "Design and supervision of construction of industrial, infrastructure, oil and gas, commercial, residential, sports and community structures."
+    },
+    {
+      "name": "Mr. A.A. Limaye",
+      "role": "Senior Design Engineer",
+      "qual": "B.E. (Civil), M.E. (Structural Engineering)",
+      "exp": "14 years",
+      "text": "Design of industrial, commercial, residential and petrochemical structures."
+    },
+    {
+      "name": "Mr. Abhijeet Pingale",
+      "role": "Structural Design Engineer",
+      "qual": "B.E. (Civil); Associate Member, Institution of Engineers (India)",
+      "exp": "14 years",
+      "text": "Design and supervision of industrial, commercial, residential and petrochemical structures."
+    },
+    {
+      "name": "Mrs. Manjusha Bhagat",
+      "role": "Structural Design Engineer",
+      "qual": "B.E. (Civil), M.Tech. (Structural Engineering)",
+      "exp": "8 years",
+      "text": "Design and supervision of construction of various types of structures."
+    },
+    {
+      "name": "Mr. Jayesh Hemant Wadke",
+      "role": "3D Modelling and Detailing Engineer",
+      "qual": "B.E. (Mechanical)",
+      "exp": "5 years",
+      "text": "Designing and manufacturing industrial and process engineering structures."
+    },
+    {
+      "name": "Mr. Deepak Laxman Gawade",
+      "role": "Structural Detailer",
+      "qual": "Diploma in Architectural Draughtsmanship",
+      "exp": "7 years",
+      "text": "Detailing residential and commercial reinforced concrete structures."
+    },
+    {
+      "name": "Mr. Mahesh Balaji Kadam-Patil",
+      "role": "Structural Detailer",
+      "qual": "ITI Mechanical Drafting",
+      "exp": "2 years",
+      "text": "Detailing industrial, mechanical drawing and drafting."
+    },
+    {
+      "name": "Mrs. Harshada Kajarekar",
+      "role": "3D Modeller",
+      "qual": "B.E. (E&TC)",
+      "exp": "6 years in 3D modelling and detailing; 2½ years in web application development",
+      "text": "3D modelling and detailing of industrial equipment supporting structures."
+    }
+  ],
+  "ticker": [
+    "Structural Steel",
+    "RCC Design",
+    "3D Modelling",
+    "Detailing",
+    "Finite Element Analysis",
+    "BOQ & Estimation",
+    "Solar Structures",
+    "Design Review"
+  ]
+}
