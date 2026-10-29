@@ -28,7 +28,7 @@ export const site = asyncHandler(async (req, res) => {
     Menu.find({ isVisible: true }).sort('order').lean(),
     Category.find(active).sort(sorted).lean(),
     Service.find(active).sort(sorted).lean(),
-    Project.find(active).sort(sorted).populate('categories', 'key').lean(),
+    Project.find(active).sort(sorted).lean(),   // no populate: a bad category value in one project must never break the whole site
     TeamMember.find(active).sort(sorted).lean(),
     Client.find(active).sort('order name').lean(),
     Software.find(active).sort(sorted).lean(),
@@ -39,6 +39,8 @@ export const site = asyncHandler(async (req, res) => {
   ]);
   const s = settings || {};
   const slugById = new Map(services.map((x) => [String(x._id), x.slug]));
+  const catById = new Map(categories.map((c) => [String(c._id), c.key]));
+  const catKeys = new Set(categories.map((c) => c.key));
 
   const blocks = {};
   content.forEach((c) => {
@@ -69,7 +71,7 @@ export const site = asyncHandler(async (req, res) => {
       })),
       filters: [{ key: 'all', label: 'All' }, ...categories.map((c) => ({ key: c.key, label: c.label }))],
       projects: projects.map((p) => ({
-        id: p.slug, featured: p.featured ? 1 : 0, title: p.title, cats: (p.categories || []).map((c) => c.key), catLabel: p.catLabel,
+        id: p.slug, featured: p.featured ? 1 : 0, title: p.title, cats: (p.categories || []).map((c) => (catById.get(String(c)) || (catKeys.has(String(c)) ? String(c) : null))).filter(Boolean), catLabel: p.catLabel,
         loc: p.location, img: img(p.image, 900), type: p.type, desc: p.description, status: p.status || undefined,
       })),
       expertise: expertise.map((e) => ({ icon: e.icon, title: e.title, text: e.text })),
