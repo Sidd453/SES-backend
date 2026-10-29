@@ -47,7 +47,7 @@ export const site = asyncHandler(async (req, res) => {
       : { type: c.type, value: c.value, suffix: c.suffix, href: c.hasHref ? c.href : undefined };
   });
 
-  res.set('Cache-Control', 'public, max-age=30, stale-while-revalidate=120');
+  res.set('Cache-Control', 'public, max-age=5, must-revalidate');
   res.json({
     success: true,
     settings: {
